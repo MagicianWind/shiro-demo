@@ -1,0 +1,5 @@
+shiro:
+  loginUrl: /user/login
+  successUrl: /
+server:
+  port: 8888
